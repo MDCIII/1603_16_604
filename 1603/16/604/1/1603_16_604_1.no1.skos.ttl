@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,125 +26,150 @@
 <urn:mdciii:1603:16:604:1:1>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:1" ;
-    skos:prefLabel "Amazonas"@spa-Latn .
+    skos:prefLabel "Amazonas"@spa-Latn ;
+    wdata:q7200235 "PE01" .
 
 <urn:mdciii:1603:16:604:1:10>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:10" ;
-    skos:prefLabel "Huanuco"@spa-Latn .
+    skos:prefLabel "Huanuco"@spa-Latn ;
+    wdata:q7200235 "PE10" .
 
 <urn:mdciii:1603:16:604:1:11>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:11" ;
-    skos:prefLabel "Ica"@spa-Latn .
+    skos:prefLabel "Ica"@spa-Latn ;
+    wdata:q7200235 "PE11" .
 
 <urn:mdciii:1603:16:604:1:12>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:12" ;
-    skos:prefLabel "Junin"@spa-Latn .
+    skos:prefLabel "Junin"@spa-Latn ;
+    wdata:q7200235 "PE12" .
 
 <urn:mdciii:1603:16:604:1:13>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:13" ;
-    skos:prefLabel "La Libertad"@spa-Latn .
+    skos:prefLabel "La Libertad"@spa-Latn ;
+    wdata:q7200235 "PE13" .
 
 <urn:mdciii:1603:16:604:1:14>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:14" ;
-    skos:prefLabel "Lambayeque"@spa-Latn .
+    skos:prefLabel "Lambayeque"@spa-Latn ;
+    wdata:q7200235 "PE14" .
 
 <urn:mdciii:1603:16:604:1:15>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:15" ;
-    skos:prefLabel "Lima"@spa-Latn .
+    skos:prefLabel "Lima"@spa-Latn ;
+    wdata:q7200235 "PE15" .
 
 <urn:mdciii:1603:16:604:1:16>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:16" ;
-    skos:prefLabel "Loreto"@spa-Latn .
+    skos:prefLabel "Loreto"@spa-Latn ;
+    wdata:q7200235 "PE16" .
 
 <urn:mdciii:1603:16:604:1:17>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:17" ;
-    skos:prefLabel "Madre de Dios"@spa-Latn .
+    skos:prefLabel "Madre de Dios"@spa-Latn ;
+    wdata:q7200235 "PE17" .
 
 <urn:mdciii:1603:16:604:1:18>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:18" ;
-    skos:prefLabel "Moquegua"@spa-Latn .
+    skos:prefLabel "Moquegua"@spa-Latn ;
+    wdata:q7200235 "PE18" .
 
 <urn:mdciii:1603:16:604:1:19>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:19" ;
-    skos:prefLabel "Pasco"@spa-Latn .
+    skos:prefLabel "Pasco"@spa-Latn ;
+    wdata:q7200235 "PE19" .
 
 <urn:mdciii:1603:16:604:1:2>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:2" ;
-    skos:prefLabel "Ancash"@spa-Latn .
+    skos:prefLabel "Ancash"@spa-Latn ;
+    wdata:q7200235 "PE02" .
 
 <urn:mdciii:1603:16:604:1:20>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:20" ;
-    skos:prefLabel "Piura"@spa-Latn .
+    skos:prefLabel "Piura"@spa-Latn ;
+    wdata:q7200235 "PE20" .
 
 <urn:mdciii:1603:16:604:1:21>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:21" ;
-    skos:prefLabel "Puno"@spa-Latn .
+    skos:prefLabel "Puno"@spa-Latn ;
+    wdata:q7200235 "PE21" .
 
 <urn:mdciii:1603:16:604:1:22>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:22" ;
-    skos:prefLabel "San Martin"@spa-Latn .
+    skos:prefLabel "San Martin"@spa-Latn ;
+    wdata:q7200235 "PE22" .
 
 <urn:mdciii:1603:16:604:1:23>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:23" ;
-    skos:prefLabel "Tacna"@spa-Latn .
+    skos:prefLabel "Tacna"@spa-Latn ;
+    wdata:q7200235 "PE23" .
 
 <urn:mdciii:1603:16:604:1:24>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:24" ;
-    skos:prefLabel "Tumbes"@spa-Latn .
+    skos:prefLabel "Tumbes"@spa-Latn ;
+    wdata:q7200235 "PE24" .
 
 <urn:mdciii:1603:16:604:1:25>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:25" ;
-    skos:prefLabel "Ucayali"@spa-Latn .
+    skos:prefLabel "Ucayali"@spa-Latn ;
+    wdata:q7200235 "PE25" .
 
 <urn:mdciii:1603:16:604:1:3>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:3" ;
-    skos:prefLabel "Apurimac"@spa-Latn .
+    skos:prefLabel "Apurimac"@spa-Latn ;
+    wdata:q7200235 "PE03" .
 
 <urn:mdciii:1603:16:604:1:4>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:4" ;
-    skos:prefLabel "Arequipa"@spa-Latn .
+    skos:prefLabel "Arequipa"@spa-Latn ;
+    wdata:q7200235 "PE04" .
 
 <urn:mdciii:1603:16:604:1:5>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:5" ;
-    skos:prefLabel "Ayacucho"@spa-Latn .
+    skos:prefLabel "Ayacucho"@spa-Latn ;
+    wdata:q7200235 "PE05" .
 
 <urn:mdciii:1603:16:604:1:6>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:6" ;
-    skos:prefLabel "Cajamarca"@spa-Latn .
+    skos:prefLabel "Cajamarca"@spa-Latn ;
+    wdata:q7200235 "PE06" .
 
 <urn:mdciii:1603:16:604:1:7>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:7" ;
-    skos:prefLabel "Callao"@spa-Latn .
+    skos:prefLabel "Callao"@spa-Latn ;
+    wdata:q7200235 "PE07" .
 
 <urn:mdciii:1603:16:604:1:8>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:8" ;
-    skos:prefLabel "Cusco"@spa-Latn .
+    skos:prefLabel "Cusco"@spa-Latn ;
+    wdata:q7200235 "PE08" .
 
 <urn:mdciii:1603:16:604:1:9>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:604:1:9" ;
-    skos:prefLabel "Huancavelica"@spa-Latn .
+    skos:prefLabel "Huancavelica"@spa-Latn ;
+    wdata:q7200235 "PE09" .
 
